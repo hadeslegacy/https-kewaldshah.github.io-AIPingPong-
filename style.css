@@ -1,0 +1,28 @@
+#start,
+#stat,
+#status {
+    font-size: 22px;
+}
+
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.modal-dialog{
+    width: 69%;
+}
+
+.modal-body{
+    text-align: left;
+}
